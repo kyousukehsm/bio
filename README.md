@@ -6,27 +6,32 @@ I am a passionate Information Technology graduate with a focus on building inter
 Programming & Scripting
 Languages: Kotlin, Java, Python, C++, PHP, Dart, Lua
 
-Web: HTML5, CSS3, SQL (MySQL/MariaDB)
+Web Development: HTML5, CSS3, SQL (MySQL/MariaDB), Django
 
 Game & App Development
 Engines: Roblox Studio, Godot Engine
-
 Mobile: Android Studio (Cross-platform & Native)
-
 Tools: XAMPP, Git/GitHub, Firebase
 
 Cybersecurity
-Specialty: Capture The Flag (CTF) - 2 Years experience in DICT Hack4Gov
-
+Specialty: Capture The Flag (CTF) — 2 years of experience in DICT Hack4Gov
 Focus Areas: Web Exploitation, Cryptography, Forensic Analysis
 
 🛠️ Featured Projects
+ECOQUEST-GAME
+An interactive game project developed using the Godot Engine.
+Status: Private Repository, WIP
+Tech Stack: Godot, GDScript.
+
 Tinig Katutubo
 A specialized mobile application designed for kindergarten students to promote indigenous language and culture.
-
 Tech Stack: Android Studio, Kotlin/Java.
 
-📊 GitHub Stats
+Chat API / Backend
+A backend infrastructure project built using Python and Django.
+Features: Implementation of asgi.py and wsgi.py for standard web server interfacing.
+Tech Stack: Python, Django.
+
 📫 Let's Connect!
-LinkedIn: https://www.linkedin.com/in/juleven-quilly-1769053ab/
+LinkedIn: Juleven Quilly
 Discord: kyousukehsm_
