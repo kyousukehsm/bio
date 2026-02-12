@@ -14,6 +14,7 @@ I am a passionate Information Technology graduate with a focus on building inter
 | **Web Dev** | HTML5, CSS3, SQL (MySQL/MariaDB), Django |
 | **Game Engines** | Flutter, React, Roblox Studio, Godot Engine |
 | **Mobile** | Android Studio (Cross-platform & Native) |
+| **Design & Office** | Adobe Photoshop, Microsoft Office Suite (Word, Excel, PowerPoint) |
 | **AI & Tools** | Gemini API, XAMPP, Git/GitHub, Firebase |
 
 ---
@@ -21,7 +22,7 @@ I am a passionate Information Technology graduate with a focus on building inter
 ## Language Proficiency
 
 * **Proficient:** TypeScript, Python, Dart (Flutter)
-* **Familiar:** Kotlin, Java, C++, PHP, Lua
+* **Familiar:** Kotlin, Java, C++, PHP, Lua (Roblox Studio)
 * **Currently Learning:** Advanced Generative AI Integration & Real-time WebSockets
 
 ---
@@ -76,4 +77,5 @@ I believe that the core of being a developer is the ability to adapt and learn a
 ## Let's Connect
 
 * **LinkedIn:** Juleven Quilly
+* **Fb:** Juleven Orillaneda Quilly
 * **Discord:** kyousukehsm_
