@@ -22,9 +22,10 @@ I am a passionate Information Technology graduate with a focus on building inter
 
 **Specialty:** Capture The Flag (CTF) — 2 years of experience in DICT Hack4Gov.
 
-* **Web Exploitation:** Identifying vulnerabilities in web applications.
-* **Cryptography:** Decrypting secure communications and data.
-* **Forensic Analysis:** Investigating digital artifacts and system logs.
+* **Cryptography & Steganography:** Decrypting secure communications—including signal-based ciphers like Morse code—and uncovering text or data hidden within audio sound waves.
+* **Forensic Analysis:** Investigating digital artifacts, system logs, and spectral audio data to reconstruct hidden information.
+* **OSINT:** Utilizing Open Source Intelligence to gather data and identify potential security risks from public sources.
+* **Network & Remote Systems:** Configuring Cisco network environments and managing secure connections via Remote Desktop protocols.
 
 ---
 
