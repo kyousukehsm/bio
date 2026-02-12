@@ -43,16 +43,19 @@ I am a passionate Information Technology graduate with a focus on building inter
 ### TrivAI
 * **Description:** A generative game-show experience leveraging large language models to create a dynamic environment with a real-time virtual host.
 * **Tech Stack:** React, TypeScript, Vite, Gemini, Tailwind CSS.
+* **The Challenge:** Orchestrating real-time AI responses within a React state-machine while maintaining low-latency gameplay and a high-fidelity UI.
 
 ### Tinig Katutubo
 * **Description:** A specialized mobile application designed for kindergarten students to promote indigenous language and culture.
 * **Role:** Lead Application Developer (External Consultant).
 * **Tech Stack:** Android Studio, Kotlin/Java.
+* **The Challenge:** Designing an intuitive UI/UX specifically for early learners while ensuring high-performance audio playback for language pronunciation modules.
 
 ### Real-time Chat API
 * **Description:** Developed a custom backend infrastructure designed for high-concurrency messaging.
 * **Features:** Implementation of **ASGI** for asynchronous WebSocket support and **WSGI** for traditional HTTP request handling.
 * **Tech Stack:** Python, Django.
+* **The Challenge:** Managing the transition between synchronous web requests and asynchronous real-time message streams to ensure data consistency.
 
 ---
 
