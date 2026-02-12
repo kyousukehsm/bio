@@ -12,7 +12,7 @@ I am a passionate Information Technology graduate with a focus on building inter
 | :--- | :--- |
 | **Languages** | Kotlin, Java, Python, C++, PHP, Dart, Lua |
 | **Web Dev** | HTML5, CSS3, SQL (MySQL/MariaDB), Django |
-| **Game Engines** | React, Roblox Studio, Godot Engine |
+| **Game Engines** | Flutter, React, Roblox Studio, Godot Engine |
 | **Mobile** | Android Studio (Cross-platform & Native) |
 | **AI & Tools** | Gemini API, XAMPP, Git/GitHub, Firebase |
 
@@ -33,26 +33,40 @@ I am a passionate Information Technology graduate with a focus on building inter
 
 ### TrivAI
 * **Description:** A generative game-show experience leveraging large language models to create a dynamic environment with a real-time virtual host.
-* **Tech Stack:** React, TypeScript, Vite, Gemini 1.5 Pro, Tailwind CSS.
-
-### ECOQUEST-GAME
-* **Description:** An interactive game project developed using the Godot Engine.
-* **Status:** Private Repository, WIP.
-* **Tech Stack:** Godot, GDScript.
+* **Tech Stack:** React, TypeScript, Vite, Gemini, Tailwind CSS.
 
 ### Tinig Katutubo
 * **Description:** A specialized mobile application designed for kindergarten students to promote indigenous language and culture.
 * **Role:** Lead Application Developer (External Consultant).
 * **Tech Stack:** Android Studio, Kotlin/Java.
 
-### Chat API / Backend
-* **Description:** A backend infrastructure project built using Python and Django.
-* **Features:** Implementation of asgi.py and wsgi.py for standard web server interfacing.
+### Real-time Chat API
+* **Description:** Developed a custom backend infrastructure designed for high-concurrency messaging.
+* **Features:** Implementation of **ASGI** for asynchronous WebSocket support and **WSGI** for traditional HTTP request handling.
 * **Tech Stack:** Python, Django.
+
+---
+
+## Independent & Academic Projects
+
+* **Flutter Game Projects:** Developing interactive mobile games using Flutter and Dart, focusing on responsive UI and game logic.
+* **Kotlin Mobile Apps:** Various native Android applications focused on performance and Material Design principles.
+* **Localhost Web Systems:** Developed several administrative tools (e.g., Lanyard System) using PHP, SQL, and XAMPP for local server environments.
+* **Mini-Apps:** Various CRUD-based applications built to solve specific data-management use cases during academic study.
+
+---
+
+## Professional Philosophy & Growth
+
+I believe that the core of being a developer is the ability to adapt and learn at every stage of a career. My professional mindset focuses on:
+* **Continuous Learning:** I am dedicated to keeping my skills sharp and am highly motivated to undergo specialized training to master new organizational tech stacks.
+* **Rapid Re-adaptation:** While I have a diverse foundation in multiple languages, I am confident in my ability to quickly refresh my knowledge and hit the ground running when starting new roles or projects.
+* **Team Growth:** I am eager to apply my foundational BSIT knowledge to real-world challenges while evolving alongside industry standards in a professional team environment.
 
 ---
 
 ## Let's Connect
 
 * **LinkedIn:** Juleven Quilly
+* **Facebook:** Juleven Orillaneda Quilly
 * **Discord:** kyousukehsm_
