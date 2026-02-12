@@ -18,6 +18,14 @@ I am a passionate Information Technology graduate with a focus on building inter
 
 ---
 
+## Language Proficiency
+
+* **Proficient:** TypeScript, Python, Dart (Flutter)
+* **Familiar:** Kotlin, Java, C++, PHP, Lua
+* **Currently Learning:** Advanced Generative AI Integration & Real-time WebSockets
+
+---
+
 ## Cybersecurity
 
 **Specialty:** Capture The Flag (CTF) — 2 years of experience in DICT Hack4Gov.
@@ -68,5 +76,4 @@ I believe that the core of being a developer is the ability to adapt and learn a
 ## Let's Connect
 
 * **LinkedIn:** Juleven Quilly
-* **Facebook:** Juleven Orillaneda Quilly
 * **Discord:** kyousukehsm_
