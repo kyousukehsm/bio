@@ -40,7 +40,7 @@ I am a passionate Information Technology graduate with a focus on building inter
 
 ## Featured Projects
 
-### EcoQuest: Jemboy’s Quest to Clean Agusan del Su
+### EcoQuest: Jemboy’s Quest to Clean Agusan del Sur
 * **Description:** A 2D educational action-platformer mobile game designed specifically for children aged 7 to 12. It follows a young Manobo boy named Jemboy who is guided by Diwata Aliya, a mystical forest spirit, as he goes on a journey to clean up his environment using magical ecotools.
 * **Role:** Capstone Proponent / Game Developer
 * **Tech Stack:** Godot 4, GDScript, Piskel, Android
