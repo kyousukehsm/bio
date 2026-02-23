@@ -40,18 +40,18 @@ I am a passionate Information Technology graduate with a focus on building inter
 
 ## Featured Projects
 
-### EcoQuest: Jemboy’s Quest to Clean Agusan del Sur
+### [EcoQuest: Jemboy’s Quest to Clean Agusan del Sur](https://github.com/kyousukehsm/EcoQuest)
 * **Description:** A 2D educational action-platformer mobile game designed specifically for children aged 7 to 12. It follows a young Manobo boy named Jemboy who is guided by Diwata Aliya, a mystical forest spirit, as he goes on a journey to clean up his environment using magical ecotools.
 * **Role:** Capstone Proponent / Game Developer
 * **Tech Stack:** Godot 4, GDScript, Piskel, Android
 * **The Challenge:** Designing fun and challenging platforming levels that capture the interest of children while integrating educational content. Technical implementations included handling character state management, multiple climbing mechanics for different surfaces, and dynamic physics for polluted versus clean swimmable water.
 
-### TrivAI
+### [TrivAI](https://github.com/kyousukehsm/TrivAI)
 * **Description:** A generative game-show experience leveraging large language models to create a dynamic environment with a real-time virtual host.
 * **Tech Stack:** React, TypeScript, Vite, Gemini, Tailwind CSS.
 * **The Challenge:** Orchestrating real-time AI responses within a React state-machine while maintaining low-latency gameplay and a high-fidelity UI.
 
-### Tinig Katutubo
+### [Tinig Katutubo](https://github.com/kyousukehsm/TinigKatutubo)
 * **Description:** A specialized mobile application designed for kindergarten students to promote indigenous language and culture.
 * **Role:** Lead Application Developer (External Consultant).
 * **Tech Stack:** Android Studio, Kotlin/Java.
