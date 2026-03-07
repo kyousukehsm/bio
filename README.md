@@ -10,7 +10,7 @@ I am a passionate Information Technology graduate with a focus on building inter
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Kotlin, Java, Python, C++, PHP, Dart, Lua |
+| **Languages** | Kotlin, Java, Python, C++, PHP, Dart, Lua, GDScript |
 | **Web Dev** | HTML5, CSS3, SQL (MySQL/MariaDB), Django |
 | **Game Engines** | Flutter, React, Roblox Studio, Godot Engine |
 | **Mobile** | Android Studio (Cross-platform & Native) |
@@ -21,7 +21,7 @@ I am a passionate Information Technology graduate with a focus on building inter
 
 ## Language Proficiency
 
-* **Proficient:** TypeScript, Python, Dart (Flutter)
+* **Proficient:** TypeScript, Python, Dart (Flutter), GDScript
 * **Familiar:** Kotlin, Java, C++, PHP, Lua (Roblox Studio)
 * **Currently Learning:** Advanced Generative AI Integration & Real-time WebSockets
 
